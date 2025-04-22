@@ -47,5 +47,4 @@ The cleaned and analyzed data was then exported from SQL Management Studio and i
 ## Conclusion
 This project provides valuable insights into the air pollution levels across the globe, with a focus on cities and countries with the highest pollution rates. It highlights the relationship between population size and pollution, showcasing the areas that need immediate attention to improve air quality.
 
-## License
-This project is open source and available under the [MIT License](LICENSE).
+
